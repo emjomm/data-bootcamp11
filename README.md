@@ -14,5 +14,21 @@ This bootcamp runs about 4 months, 10 sprints
 - Python
 - Dashboard
 
+I love `R programming` (in line code)
+
+## Code Block
+```r
+print("hello world")
+```
+
+## Contact information
+Website: ....
+
+## Gundam image
+![Gundam](https://experienceredmond.com/wp-content/uploads/2024/08/img_mv_sp.png)
+
+
 ## Email: Mossjompoat@gmail.com
+
+Made with love
 
